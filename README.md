@@ -5,4 +5,4 @@ The script shows the frequency of letters, words with a single letter, letters a
 
 ## How to use
 
-After running the script and seeing the text properties, to change the letters go to the file *switch.py* and modify the letters that you want to change in the *switch_letters* function. To run the script again and see the result of the modifications that you made uncomment the *import switch* and the lines containing the *switch_letters* function.
+After running the script and seeing the text properties, to change the letters go to the file `*switch.py*` and modify the letters that you want to change in the `*switch_letters*` function. To run the script again and see the result of the modifications that you made uncomment the `*import switch*` and the lines containing the `*switch_letters*` function.
