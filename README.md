@@ -3,7 +3,7 @@
 This script analyze the frequency of letters in a text, in order to give insightful data to decipher a ciphertext.
 The script shows the frequency of letters, words with a single letter, letters at the beggining and end of a word, two and three letters words frequency. It was made to decipher text written in Portuguese(pt-br) so it might not work well for other languages.
 
-### Executing the script
+## Executing the script
 
 To execute the script first clone the repository
 
