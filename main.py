@@ -43,7 +43,9 @@ def switch_letters(string):
     return switch.get(string, "empty")
 
 
-with open("FILE.txt", "r") as f:
+file = str(input("Filename: "))
+
+with open(file, "r") as f:
     text = f.read()
 
 # remove punctuation characters from text
